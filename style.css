@@ -1,0 +1,23 @@
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(248, 87, 114);
+    }
+ h2{
+    font-family: italic;
+    color: rgba(120, 6, 226, 0.685);
+    background-color: rgba(243, 170, 61, 0.973);
+     }
+
+th{
+    color: rgba(2, 75, 75, 0.89);
+}
+td{
+    color: rgba(3, 0, 5, 0.877);
+}
+input{
+    background-color: rgba(6, 145, 6, 0.644);
+    border-radius: 10px;
+}
+table{
+    border: 1px solid black;
+}
